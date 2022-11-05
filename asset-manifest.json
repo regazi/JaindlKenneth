@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/JaindlKenneth/static/css/main.5837cf10.css",
-    "main.js": "/JaindlKenneth/static/js/main.8ca85450.js",
+    "main.css": "/JaindlKenneth/static/css/main.ba18ef95.css",
+    "main.js": "/JaindlKenneth/static/js/main.cc8a6ef7.js",
     "static/js/787.4b564826.chunk.js": "/JaindlKenneth/static/js/787.4b564826.chunk.js",
     "static/media/thegoat.png": "/JaindlKenneth/static/media/thegoat.25ee29b2d9c6b86929e1.png",
     "static/media/fif1.PNG": "/JaindlKenneth/static/media/fif1.726948bc2d1ec4f2457d.PNG",
@@ -10,12 +10,12 @@
     "service-worker.js": "/JaindlKenneth/service-worker.js",
     "static/media/meetApp.PNG": "/JaindlKenneth/static/media/meetApp.b1a4efb54b5408415acd.PNG",
     "index.html": "/JaindlKenneth/index.html",
-    "main.5837cf10.css.map": "/JaindlKenneth/static/css/main.5837cf10.css.map",
-    "main.8ca85450.js.map": "/JaindlKenneth/static/js/main.8ca85450.js.map",
+    "main.ba18ef95.css.map": "/JaindlKenneth/static/css/main.ba18ef95.css.map",
+    "main.cc8a6ef7.js.map": "/JaindlKenneth/static/js/main.cc8a6ef7.js.map",
     "787.4b564826.chunk.js.map": "/JaindlKenneth/static/js/787.4b564826.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5837cf10.css",
-    "static/js/main.8ca85450.js"
+    "static/css/main.ba18ef95.css",
+    "static/js/main.cc8a6ef7.js"
   ]
 }
