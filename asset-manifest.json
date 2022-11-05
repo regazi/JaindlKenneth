@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/JaindlKenneth/static/css/main.5837cf10.css",
+    "main.js": "/JaindlKenneth/static/js/main.8ca85450.js",
+    "static/js/787.4b564826.chunk.js": "/JaindlKenneth/static/js/787.4b564826.chunk.js",
+    "static/media/thegoat.png": "/JaindlKenneth/static/media/thegoat.25ee29b2d9c6b86929e1.png",
+    "static/media/fif1.PNG": "/JaindlKenneth/static/media/fif1.726948bc2d1ec4f2457d.PNG",
+    "static/media/code.PNG": "/JaindlKenneth/static/media/code.812aaa99bcf1fd131605.PNG",
+    "static/media/pokeAPp.PNG": "/JaindlKenneth/static/media/pokeAPp.01bca07abd373a4c8cae.PNG",
+    "service-worker.js": "/JaindlKenneth/service-worker.js",
+    "static/media/meetApp.PNG": "/JaindlKenneth/static/media/meetApp.b1a4efb54b5408415acd.PNG",
+    "index.html": "/JaindlKenneth/index.html",
+    "main.5837cf10.css.map": "/JaindlKenneth/static/css/main.5837cf10.css.map",
+    "main.8ca85450.js.map": "/JaindlKenneth/static/js/main.8ca85450.js.map",
+    "787.4b564826.chunk.js.map": "/JaindlKenneth/static/js/787.4b564826.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5837cf10.css",
+    "static/js/main.8ca85450.js"
+  ]
+}
